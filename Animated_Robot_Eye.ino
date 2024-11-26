@@ -1,11 +1,8 @@
 //***********************************************************************************************
-//  This example shows how to use the basic methods of the FluxGarage Robo Eyes library. 
+//  This example shows how to use the basic methods of the Robo Eyes library. 
 //
-//  Hardware: You'll need a breadboard, an arduino nano r3, an I2C oled display with 1306   
-//  or 1309 chip and some jumper wires.
-//  
-//  Published in September 2024 by Dennis Hoelscher, FluxGarage
-//  www.youtube.com/@FluxGarage
+//  Published in November 2024 by Chethana Vishmika
+//  www.youtube.com/@ChethanaVishmika
 //  www.fluxgarage.com
 //
 //***********************************************************************************************
